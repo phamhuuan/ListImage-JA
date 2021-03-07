@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">ViewImage</string>
+	<string name="radioButtonList">List</string>
+	<string name="radioButtonViewPager">View Pager</string>
+	<string name="radioButtonGrid">Grid</string>
+	<string name="image">Image</string>
+</resources>
